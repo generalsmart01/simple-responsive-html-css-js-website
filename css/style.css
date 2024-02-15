@@ -585,10 +585,10 @@ section {
     right: 2rem;
   }
 
-  .header .search-form {
+  /* .header .search-form {
     right: 2rem;
     width: 90%;
-  }
+  } */
 
   .header .colors-palette {
     right: 2rem;
